@@ -6,9 +6,7 @@ A small game made with **HTML, CSS, and JavaScript** where you try to guess the 
 
 ## Live Demo
 
-Check it out here:  
-[Guess The Number Live](https://tanvirahammad-007.github.io/Guess-The-Number/)
-
+👉 [Play the Game Here](https://tanvirahammad-007.github.io/Guess-The-Number/) 
 ---
 
 ## How to Play
